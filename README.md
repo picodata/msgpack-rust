@@ -28,7 +28,7 @@ This project consists of three crates:
 
 ## Why MessagePack?
 
-Smaller and simpler to parse than JSON. Supports the same types as JSON, plus binary data, all float values, and 64-bit numbers.
+Smaller and simpler to parse than JSON. Supports the same types as JSON, plus binary data, non-string keys, all float values, and 64-bit numbers.
 Encoded data is self-describing and extensible, without requiring a schema definition.
 
 ## Requirements
