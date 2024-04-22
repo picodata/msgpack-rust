@@ -1,5 +1,7 @@
 # RMP - Rust MessagePack
 
+This is a fork of https://github.com/3Hren/msgpack-rust.
+
 RMP is a pure Rust [MessagePack](http://msgpack.org) implementation.
 
 [![Build Status](https://travis-ci.org/3Hren/msgpack-rust.svg?branch=master)](https://travis-ci.org/3Hren/msgpack-rust)
